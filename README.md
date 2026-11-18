@@ -1,4 +1,4 @@
-# Player Menu — your gym app
+# NYXZ's Lair — your sarcastic AI coach / calorie tracker
 
 A React + Vite site with 5 pages: Character (about you), Fuel Log (calorie
 tracker), Training (gym routine), Loadout (gymwear), Support Quest (donate).
