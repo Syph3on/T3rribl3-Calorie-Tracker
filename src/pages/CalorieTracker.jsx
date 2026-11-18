@@ -348,7 +348,7 @@ export default function CalorieTracker() {
   return (
     <div className="fuel-page page-shell max-w-none">
       <motion.p initial={{ opacity: 0, y: -8 }} animate={{ opacity: 1, y: 0 }} className="font-pixel text-[10px] text-amber mb-3">LEVEL 02</motion.p>
-      <motion.h1 initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.1 }} className="font-display font-bold text-4xl md:text-5xl mb-6">Fuel Log</motion.h1>
+      <motion.h1 initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.1 }} className="font-display font-bold text-4xl md:text-5xl mb-6">Calorie Tracker / AI Coach</motion.h1>
 
       {!supabaseReady && (
         <div className="bg-panel border border-line rounded p-4 mb-6 font-mono text-xs text-muted">
