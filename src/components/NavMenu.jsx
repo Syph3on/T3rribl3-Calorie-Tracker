@@ -3,7 +3,7 @@ import { useState } from "react";
 
 const LEVELS = [
   { n: "01", to: "/", label: "Character", sub: "identity / progress" },
-  { n: "02", to: "/calories", label: "Fuel Log", sub: "daily intake" },
+  { n: "02", to: "/calories", label: "Calorie Tracker / AI Coach", sub: "daily intake" },
   { n: "03", to: "/routine", label: "Training", sub: "weekly split" },
   { n: "04", to: "/gymwear", label: "Loadout", sub: "kit / essentials" },
   { n: "05", to: "/donate", label: "Support", sub: "keep it moving" },
