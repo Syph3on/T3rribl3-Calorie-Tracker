@@ -17,7 +17,7 @@ const photos = [
   { src: me1, label: "ME", title: "Outside the gym", description: "Literally me IRL. When I'm not grinding in the gym I'm a nerd, scholar, gamer, pianist, science researcher, combined into one.", tags: ["science research", "nerd", "gamer"] },
   { src: me2, label: "Gym tees", title: "A session in motion", description: "I love BD and Gymshark so much :3 PLEASE sponsor me Breathedivinity and Gymshark :D", tags: ["training", "compression tee"] },
   { src: me3, label: "The grind 01", title: "Chest is my weakpoint", description: "Front physique", tags: ["chad is 1 'u' away from chud"] },
-  { src: me4, label: "The grind 02", title: "Thick back saves lives", description: "Bag dominant physique imo", tags: ["thick back saves lives"] },
+  { src: me4, label: "The grind 02", title: "Thick back saves lives", description: "Back dominant physique imo", tags: ["thick back saves lives"] },
 ];
 const stats = [{ label: "Strength", value: 62 }, { label: "Discipline", value: 80 }, { label: "Nutrition", value: 80 }];
 
